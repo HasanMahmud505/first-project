@@ -1,0 +1,149 @@
+.pseudo .one{
+    width: 200px;
+    height: 150px;
+    background: pink;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 30px;
+    position: fixed;
+    z-index: 3;
+    
+}
+.pseudo .one:hover{
+    z-index: 2;
+}
+.pseudo .two{
+    width: 200px;
+    height: 150px;
+    background: greenyellow;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 40px;
+    position: relative;
+    top: -140px;
+    z-index: 1;
+}
+.pseudo .two:hover{
+    z-index: 2;
+}
+.pseudo .three{
+    width: 200px;
+    height: 150px;
+    background: gold;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 50px;
+    position: relative;
+    top: -270px;
+    z-index: 1;
+}
+.pseudo .three:hover{
+    z-index: 2;
+}
+.pseudo .four{
+    width: 200px;
+    height: 150px;
+    background: lime;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 30px;
+    position: relative;
+    top: -400px;
+    z-index: 1;
+    
+}
+.pseudo .four:hover{
+    z-index: 2;
+}
+.pseudo .five{
+    width: 200px;
+    height: 150px;
+    background: aqua;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 40px;
+    position: relative;
+    top: -520px;
+    z-index: 1;
+}
+.pseudo .five:hover{
+    z-index: 2;
+}
+.pseudo .six{
+    width: 200px;
+    height: 150px;
+    background: lightgreen;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 50px;
+    position: relative;
+    top: -650px;
+    z-index: 1;
+}
+.pseudo .six:hover{
+    z-index: 2;
+}
+.pseudo .seven{
+    width: 200px;
+    height: 150px;
+    background: limegreen;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 30px;
+    position: relative;
+    top: -790px;
+    z-index: 1;  
+}
+.pseudo .seven:hover{
+    z-index: 2;
+}
+.pseudo .eight{
+    width: 200px;
+    height: 150px;
+    background: peachpuff;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 40px;
+    position: relative;
+    top: -920px;
+    z-index: 1;
+
+}
+.pseudo .eight:hover{
+    z-index: 2;
+}
+.pseudo .nine{
+    width: 200px;
+    height: 150px;
+    background: lemonchiffon;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 50px;
+    position: relative;
+    top: -1050px;
+    z-index: 1;
+}
+.pseudo .nine:hover{
+    z-index: 2;
+}
+.pseudo .zero{
+    width: 200px;
+    height: 150px;
+    background: lawngreen;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 50px;
+    position: sticky;
+    top: -1180px;
+    z-index: 8;
+}
